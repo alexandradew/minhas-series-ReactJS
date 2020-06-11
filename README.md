@@ -1,5 +1,5 @@
 # Minhas séries
-Projeto na semana 1 do curso de ReactJS - DevPleno
+Projeto da semana 1 do curso de ReactJS - DevPleno
 
 # Tecnologias
 
@@ -16,7 +16,7 @@ Projeto na semana 1 do curso de ReactJS - DevPleno
 # Modificações
 
 - Definir a categoria, status e comentário na hora de criar uma nova série
-- Status atual mostrada na listagem padrão
+- Status atual mostrado na listagem padrão
 - Estilização e ícones
 
 # Listagem de gêneros
